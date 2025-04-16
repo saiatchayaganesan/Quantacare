@@ -1,0 +1,1 @@
+/Users/giriprasad/AndroidStudioProjects/QC/build/app/intermediates/cxx/RelWithDebInfo/6y6l4j2x/obj/arm64-v8a

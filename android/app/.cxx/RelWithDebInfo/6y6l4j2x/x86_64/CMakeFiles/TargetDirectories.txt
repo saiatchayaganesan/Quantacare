@@ -1,0 +1,2 @@
+/Users/giriprasad/AndroidStudioProjects/QC/android/app/.cxx/RelWithDebInfo/6y6l4j2x/x86_64/CMakeFiles/edit_cache.dir
+/Users/giriprasad/AndroidStudioProjects/QC/android/app/.cxx/RelWithDebInfo/6y6l4j2x/x86_64/CMakeFiles/rebuild_cache.dir
