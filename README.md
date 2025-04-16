@@ -38,7 +38,7 @@ This app is built using [Flutter](https://flutter.dev) / [Android Studio] (edit 
 
 Click the link below to download and install the app on your Android device:
 
-➡️ [Download APK](app-release.apk)
+➡️ [Download APK](https://github.com/saiatchayaganesan/Quantacare/releases/download/v1.0/app-release.apk)
 
 > **Note:** Make sure to enable "Install from unknown sources" in your Android settings.
 
